@@ -1,0 +1,20 @@
+[
+ {
+    "nomeProduto": "Erica Evercool Sports Bra",
+    "tamanho": "XS",
+    "cor":"Blue",
+    "quantidade": 3
+ },
+ {
+    "nomeProduto": "Frankie Sweatshirt",
+    "tamanho": "S",
+    "cor":"Green",
+    "quantidade": 5
+ },
+ {
+    "nomeProduto": "Selene Yoga Hoodie",
+    "tamanho": "L",
+    "cor":"White",
+    "quantidade": 4
+ }
+]
