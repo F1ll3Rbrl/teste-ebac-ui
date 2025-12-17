@@ -43,6 +43,5 @@ describe('Funcionalidade: Produtos', () => {
 
         cy.get('.woocommerce-message').should('contain',  dados[0].nomeProduto)
         })
-
      });
 });
